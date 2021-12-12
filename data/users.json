@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Luke Skywalker",
+        "slackId": "lukeskywalker",
+        "grewUp": "Tatooine",
+        "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Luke_Skywalker.png",
+        "wiki": "https://en.wikipedia.org/wiki/Luke_Skywalker"
+    },
+    {
+        "name": "Anakin Skywalker",
+        "slackId": "anakinskywalker",
+        "grewUp": "Tatooine",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Darth_Vader_in_The_Empire_Strikes_Back.jpg/220px-Darth_Vader_in_The_Empire_Strikes_Back.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Darth_Vader"
+    },
+    {
+        "name": "Leia Organa",
+        "slackId": "leiaorgana",
+        "grewUp": "Alderaan",
+        "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Princess_Leia%27s_characteristic_hairstyle.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Princess_Leia"
+    },
+    {
+        "name": "Han Solo",
+        "slackId": "hansolo",
+        "grewUp": "Corellia",
+        "img": "https://upload.wikimedia.org/wikipedia/en/b/be/Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Han_Solo"
+    }
+]
